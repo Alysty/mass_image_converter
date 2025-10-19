@@ -11,5 +11,5 @@ then drag into the folder with the png(s) and run the executable, it should crea
 
 
 # Errors
-    In case an error happens running the program from the terminal should display the error in a readable way.
+In case an error happens running the program from the terminal should display the error in a readable way.
 
